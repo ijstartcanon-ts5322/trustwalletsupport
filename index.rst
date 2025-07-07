@@ -5,23 +5,6 @@ Trust Wallet Support Number Toll Free +18704066577 Official
 .. meta::
    :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
 
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 20px
-
-.. image:: callnow.png
-      :width: 250px
-      :align: center
-      :height: 100px
-      :alt: call now button
-      :target: <a href="tel:+18704066577">+1-870-406-6577</a>
-
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 20px
-
 
 Call Now : `+1-870-406-6577 <tel:+18704066577>`_
 
