@@ -22,10 +22,11 @@ Trust Wallet Support Number Toll Free +18704066577 Official
       :align: center
       :height: 20px
 
-Click to call: `+1-870-406-6577 <tel:+18704066577>`_
+
+Call Now : `+1-870-406-6577 <tel:+18704066577>`_
 
 ==================
-Trust Wallet Guide
+Trust Wallet 
 ==================
 
 Trust Wallet is a leading decentralized cryptocurrency wallet designed for storing, sending, and managing various digital assets securely. It is a **non-custodial wallet**, meaning users have complete control over their private keys and funds, making it one of the safest ways to manage cryptocurrencies on mobile or browser.
