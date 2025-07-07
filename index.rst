@@ -8,7 +8,7 @@ Trust Wallet Support Number Toll Free +18704066577 Official
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 20px
 
 .. image:: callnow.png
       :width: 350px
@@ -20,7 +20,7 @@ Trust Wallet Support Number Toll Free +18704066577 Official
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 20px
 
 ==================
 Trust Wallet Guide
